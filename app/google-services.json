@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "509331208602",
+    "firebase_url": "https://detections-fb036.firebaseio.com",
+    "project_id": "detections-fb036",
+    "storage_bucket": "detections-fb036.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509331208602:android:42e5f556ad8fbc7a76a223",
+        "android_client_info": {
+          "package_name": "animesh.com.mark32"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509331208602-g3obcof3ftj74ds5udhocpab6m8d8134.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "animesh.com.mark32",
+            "certificate_hash": "f2e67041526837b6bc331f2821e653217dfb5ed9"
+          }
+        },
+        {
+          "client_id": "509331208602-ee382e79lbr11lrcktm8rfsnb2vo0qkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpOpxEF0iX0HjumHrU1gyc-epJuQwrX2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509331208602-ee382e79lbr11lrcktm8rfsnb2vo0qkr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
